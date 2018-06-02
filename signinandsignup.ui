@@ -100,7 +100,7 @@ width:100px;</string>
      </font>
     </property>
     <property name="cursor">
-     <cursorShape>PointingHandCursor</cursorShape>
+     <cursorShape>ArrowCursor</cursorShape>
     </property>
     <property name="text">
      <string>Please select Sign In or Sign Up :</string>

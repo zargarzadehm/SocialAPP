@@ -3,7 +3,6 @@
 
 #include <QMainWindow>
 #include <QLabel>
-#include <QMovie>
 #include <QAction>
 #include <QLayout>
 #include <QVBoxLayout>
