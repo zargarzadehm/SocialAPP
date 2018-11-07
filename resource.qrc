@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/rec">
-        <file>img/join channel.png</file>
-        <file>img/join group.png</file>
-        <file>img/create group.png</file>
-        <file>img/logout.png</file>
-        <file>img/create channel.png</file>
-    </qresource>
-</RCC>
