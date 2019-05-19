@@ -1,4 +1,4 @@
-##Social App
+## Social App
 
 This program is written with QT and C ++ language and uses the API with the GET method to send information to the server.
 
